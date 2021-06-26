@@ -84,3 +84,7 @@ In this project you can find some cases such as:
 # Versions
 Angular CLI: 11.0.7
 Node: 15.6.0
+
+# Other configurations
+
+ * Angular Material: ng add @angular/material
